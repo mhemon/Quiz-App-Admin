@@ -9,22 +9,23 @@ Making Admin App For Quiz App
 
 <img src="Images/device-2020-09-02-194914.png" width="190"/>
 
-2) Load The Categories data From Firebase realtime database and some functinality for admin such as add, delete operation.
+2) Load The Categories data From Firebase database and functinality for admin such as add, delete operation.
 
 <img src="Images/device-2020-09-02-195029.png" width="190"/>
 
-3) In here, Sets Model add operation by (+)btn and delete operation onLongpress a diloag box popup for delete warning.
+3) In here, (+) btn for creating a new set and onLongpress for delete operation (it not only delete a set but also delete all the ques inside this set nmb).
 
 <img src="Images/device-2020-09-02-195054.png" width="190"/>
 
-4) Now Question Activity with some functinality like (add,delete). admin can added ques from excel shit too. (i use poi library for excel).
+4) Now Add Question functinality like (excel). i use poi library for excel. this is the most diffucult task for me to implement. 
+
 <img src="Images/device-2020-09-02-195105.png" width="190"/>
 
-6) Add question through admin app
+6) Add question functinality through admin app.
 
 <img src="Images/device-2020-09-02-195116.png" width="190"/>
 
-7) Edit question through admin app
+7) Edit existing question through admin app.
 
 <img src="Images/device-2020-09-02-195129.png" width="190"/>
 
