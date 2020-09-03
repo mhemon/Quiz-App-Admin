@@ -1,21 +1,18 @@
 # Quiz App Admin
 Making Admin App For Quiz App
+<img src="Images/O15TeHCfzIQ9_1024_500.png"/>
 
 <div>
-<img src="Images/Hotpot%200.png" width="190"/>
-<img src="Images/Hotpot%201.png" width="190"/>
 <img src="Images/Hotpot%202.png" width="190"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Images/Hotpot%203.png" width="180"/>
-<img src="Images/Hotpot%204.png" width="180"/>
 </div>
 
 # Difficulty
 
-1) Loading data from Firebase (Recycler View and Gridview).
-2) Thinking About Firebase Database Structure.
-3) Loading Images (i used circle image view & Glide to laod images).
-4) Adding Animation and thinkig abuot is it suit or not!
-5) Thinking about design & color (when you don't have scratch file, you have to think about every element).
-6) Adding qus to the firebase databse also boaring..
-7) Finally, I learn a lot form this project.
+1) Admin App Start with Login Screen (I Use Firebase For Login).
+2) Load The Categories data From Firebase realtime database and In Admin App Added Extraa Btn for delete Operation.
+3) In the Categories Toolbar, Two more btn for:- (Add Categories & Logout).
+4) After That The Sets Activity (There Added Functionality For Add more Set).
+5) In the Add Question Activity There is a Functinality To Add Question From Excel Shit(I used poi library for excel).
+6) In the Add Question Admin can easily added new question, change existing ques or delete.
+7) Thank you!
 
