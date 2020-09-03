@@ -2,12 +2,11 @@
 Making Admin App For Quiz App
 
 <div>
-<img src="images/download%20(1).png" width="280"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/download%20(2).png" width="280"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/download%20(3).png" width="280"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/download%20(6).png" width="280"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/download%20(4).png" width="280"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/download%20(5).png" width="280"/>
+<img src="Images/Hotpot%200.png" width="280"/>
+<img src="Images/Hotpot%201.png" width="280"/>
+<img src="Images/Hotpot%202.png" width="280"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/Hotpot%203.png" width="280"/>
+<img src="Images/Hotpot%204.png" width="280"/>
 </div>
 
 # Difficulty
