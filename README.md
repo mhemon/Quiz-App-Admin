@@ -2,9 +2,9 @@
 Making Admin App For Quiz App
 
 <div>
-<img src="Images/Hotpot%200.png" width="180"/>
-<img src="Images/Hotpot%201.png" width="180"/>
-<img src="Images/Hotpot%202.png" width="180"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/Hotpot%200.png" width="190"/>
+<img src="Images/Hotpot%201.png" width="190"/>
+<img src="Images/Hotpot%202.png" width="190"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Images/Hotpot%203.png" width="180"/>
 <img src="Images/Hotpot%204.png" width="180"/>
 </div>
